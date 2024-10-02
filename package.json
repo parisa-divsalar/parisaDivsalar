@@ -22,7 +22,6 @@
     "@types/react-router-dom": "^5.3.3",
     "prettier": "^2.8.2",
     "react": "^18.2.0",
-    "r=": "^13.1.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.42.0",
     "react-redux": "^7.2.4",
